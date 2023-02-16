@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638115017102085488
-    m_Hash: 1463002328
+      ticks: 638121048959919332
+    m_Hash: 545385685
   m_LockFileStatus:
     m_FilePath: C:/Users/logonrmlocal/Desktop/MyFirstClass/CollisionProject/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638115017450198402
-    m_Hash: 230827022
+      ticks: 638121048959929331
+    m_Hash: 2216975041
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
